@@ -22,8 +22,8 @@ About some things
 * Frances Berriman
 * Kay Chung
 * Dan Hon
+* Erica Kwan
 * Mike Migurski
 * Nora Ryan
-* Erika Lee
 
 If you think we might be able to help you, drop us a line at [get@verylittlegravitas.com](get@verylittlegravitas.com).
