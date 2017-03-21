@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Very Little Gravitas
 
-You can use the [editor on GitHub](https://github.com/VeryLittleGravitas/CredibilityProblem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We helped found California's first digital service, the [California Child Welfare Digital Service](https://cwds.ca.gov/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We transform digital delivery for governments and organizations. 
 
-### Markdown
+We have expertise in:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Leadership
+* Strategy
+* Transformation
+* Design
 
-```markdown
-Syntax highlighted code block
+## With a header
 
-# Header 1
-## Header 2
-### Header 3
+About some things
 
-- Bulleted
-- List
+## And another header
 
-1. Numbered
-2. List
+## Right now, we are:
 
-**Bold** and _Italic_ and `Code` text
+* Frances Berriman
+* Kay Chung
+* Dan Hon
+* Mike Migurski
+* Nora Ryan
+* Erika Lee
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VeryLittleGravitas/CredibilityProblem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you think we might be able to help you, drop us a line at [get@verylittlegravitas.com](get@verylittlegravitas.com).
