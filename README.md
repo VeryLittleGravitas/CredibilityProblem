@@ -1,8 +1,8 @@
 # Very Little Gravitas
 
-We helped found California's first digital service, the [California Child Welfare Digital Service](https://cwds.ca.gov/). 
+We helped found the [California Child Welfare Digital Service](https://cwds.ca.gov/), California's first Digital Service, and we're helping the State transform digital delivery.
 
-We transform digital delivery. 
+Now we're working with others to do the same.
 
 We have expertise in:
 
@@ -11,6 +11,7 @@ We have expertise in:
 * Transformation
 * Procurement
 * Design
+
 
 ## Digital transformation with the State of California
 
@@ -35,7 +36,6 @@ We worked with the State to put recommendations in place and continue to support
 Read more:
 
 * [Leadership and innovation at California's Child Welfare Services](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/), California Health and Human Services Agency Under-secretary Mike Wilkening and California Government Operations Agency Deputy Secretary Stuart Drown, November 2016
-
 * [A New Approach to Procuring Government Technology in California](https://www.codeforamerica.org/blog/2015/11/30/a-new-approach-to-procuring-government-technology-in-california/), November 2015, Code for America
 * [Child Welfare Technology in California, Part 2](https://www.codeforamerica.org/blog/2015/12/07/child-welfare-technology-in-california-part-two/), December 2015, Code for America 
 * [Child Welfare Technology in California, Part 3: The RFPs are out!](https://www.codeforamerica.org/blog/2015/12/22/child-welfare-technology-in-california-part-3-the-rfps-are-out/), December 2015, Code for America
@@ -55,9 +55,9 @@ We're helping California make sure government services meets user needs. Our wor
 * Advising GovOps and Department of Technology leadership on technology policy and delivery
 * Delivering a digital services strategy and putting it into practice
 * [Bringing new talent and skills to government](https://github.com/CDTgithub/DigitalServiceOpportunities)
-* Identifying opportunities to demonstrate digital services approach 
+* Identifying digital service demonstration opportunities 
 
-Read more about what GovOps and the Department of Technology are doing:
+Read about what GovOps and the Department of Technology are doing based on our work:
 
 * [Marybel Batjer: Taking the leap; a bold new direction of the State of California](https://www.youtube.com/watch?v=yb8fZrrDT00), November 2016, Code for America
 * [GovOps Secretary Touts Agile Development at Code for America Summit](http://www.techwire.net/news/govops-secretary-touts-agile-development-at-code-for-america-summit.html), November 2016, Techwire
@@ -74,11 +74,22 @@ We're:
 
 ## The Federal Administration for Children and Families
 
+We worked with the [Administration for Children and Families](https://www.acf.hhs.gov) to help States:
+
+* replace technology in modules, not monoliths
+* prioritize meeting user needs instead of functional requirements
+* treat child welfare technology as services that continuously improve
+* learn about and apply iterative, agile technology delivery 
+
 ## Right now, we are
 
 ### Dan Hon, Principal
 
-### and The Interesting Times Gang
+Dan Hon ([LinkedIn](https://www.linkedin.com/in/danhon/)) is the former Editorial Director for [Code for America](https://www.codeforamerica.org), where he led the program to modernize California's procurement of a new child welfare technology system.
+
+Over the last 15 years, Dan's work has focussed on how the internet has changed publishing, entertainment, advertising and health.
+
+### and, the Interesting Times Gang
 
 * Frances Berriman
 * Kay Chung
