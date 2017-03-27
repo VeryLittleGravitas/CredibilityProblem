@@ -1,23 +1,14 @@
 # Very Little Gravitas
 
-We helped found the [California Child Welfare Digital Service](https://cwds.ca.gov/), California's first Digital Service, and we're helping the State transform digital delivery.
+We helped found the [California Child Welfare Digital Service](https://cwds.ca.gov/), California's first Digital Service, and we're helping California's State government transform digital delivery.
 
 Now we're working with others to do the same.
-
-We have expertise in:
-
-* Leadership
-* Strategy
-* Transformation
-* Procurement
-* Design
-
 
 ## Digital transformation with the State of California
 
 ### California Child Welfare Digital Service
 
-In 2015 our principal's work with Code for America led to California's [Health and Human Services Agency](http://www.chhs.ca.gov), [Department for Social Services](http://www.cdss.ca.gov), [Office of Systems Integration](http://www.cdss.ca.gov), [Government Operations Agency](http://govops.ca.gov) and [Department of Technology](http://www.cio.ca.gov) working together to found the [Child Welfare Digital Service](https://cwds.ca.gov).
+In 2015, our principal's work with Code for America led to California's [Health and Human Services Agency](http://www.chhs.ca.gov), [Department for Social Services](http://www.cdss.ca.gov), [Office of Systems Integration](http://www.cdss.ca.gov), [Government Operations Agency](http://govops.ca.gov) and [Department of Technology](http://www.cio.ca.gov) working together to found the [Child Welfare Digital Service](https://cwds.ca.gov).
 
 Our work included:
 
@@ -72,9 +63,9 @@ We're:
 * Helping [OSI](http://osi.ca.gov) increase their capability and support for agile, iterative, multi-disciplinary delivery of technology that meets user needs
 * Advising on modernizing and replacing programs like Medicaid MMIS and MEDS, the Medi-Cal Eligibility Data System
 
-## The Federal Administration for Children and Families
+## The Administration for Children and Families
 
-We worked with the [Administration for Children and Families](https://www.acf.hhs.gov) to help States:
+We worked with the Federal [Administration for Children and Families](https://www.acf.hhs.gov) to help States:
 
 * replace technology in modules, not monoliths
 * prioritize meeting user needs instead of functional requirements
