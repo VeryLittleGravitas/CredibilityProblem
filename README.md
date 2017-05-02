@@ -10,34 +10,7 @@ Now we're working with others to do the same.
 
 In 2015, our principal's work with Code for America led to California's [Health and Human Services Agency](http://www.chhs.ca.gov), [Department for Social Services](http://www.cdss.ca.gov), [Office of Systems Integration](http://www.cdss.ca.gov), [Government Operations Agency](http://govops.ca.gov) and [Department of Technology](http://www.cio.ca.gov) working together to found the [Child Welfare Digital Service](https://cwds.ca.gov).
 
-Our work included:
-
-* Reviewing draft RFPs and procurement/acquisition strategies
-* Advising leadership on the risks of traditional monolithic waterfall procurement
-* Recommending an achievable way forward
-
-Our recommendations included:
-
-* Procurement and contracting reform
-* Transforming and simplifying governance to prioritize quickly and frequently meeting user needs
-* Improving the State's internal digital delivery capability and resources
-
-We worked with the State to put recommendations in place and continue to support the Child Welfare Digital Service.
-
-Read more:
-
-* [Leadership and innovation at California's Child Welfare Services](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/), California Health and Human Services Agency Under-secretary Mike Wilkening and California Government Operations Agency Deputy Secretary Stuart Drown, November 2016
-* [A New Approach to Procuring Government Technology in California](https://www.codeforamerica.org/blog/2015/11/30/a-new-approach-to-procuring-government-technology-in-california/), November 2015, Code for America
-* [Child Welfare Technology in California, Part 2](https://www.codeforamerica.org/blog/2015/12/07/child-welfare-technology-in-california-part-two/), December 2015, Code for America 
-* [Child Welfare Technology in California, Part 3: The RFPs are out!](https://www.codeforamerica.org/blog/2015/12/22/child-welfare-technology-in-california-part-3-the-rfps-are-out/), December 2015, Code for America
-* [Recapping the California Child Welfare Technology Vendor Forums: Part 1](https://www.codeforamerica.org/blog/2015/12/23/recapping-the-california-child-welfare-technology-vendor-forums-part-1/) and [part 2](https://www.codeforamerica.org/blog/2015/12/23/recapping-the-california-child-welfare-technology-vendor-forums-part-2/), December 2015, Code for America
-
-Case studies and reports:
-
-* [Design Thinking Meets Development in California](https://lnwprogram.org/content/design-thinking-meets-development-california), Public Sector for the Future Summit 2016, Leadership for a Networked World
-* [Beyond Big Bang: Why the future of legacy modernization is modular, iterative and perpetually in beta](/assets/public_cio_special_report_beyond_big_bang.pdf), Public CIO Special Report, Q2 2016
-* [Life After the Big Bang: Exploring modular, agile paths towards health and human services modernization](http://www.govexec.com/gbc/life-after-big-bang-exploring-modular-agile-paths-toward-health-and-human-services-modernization/), GovExec / Government Business Council, underwitten by KPMG
-
+[Read more about our work with CWDS](/cwds)
 
 ### Government Operations Agency and Department of Technology 
 
