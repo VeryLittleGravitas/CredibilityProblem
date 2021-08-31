@@ -146,6 +146,6 @@ We worked with the Federal [Administration for Children and Families](https://ww
 
 ---
 
-"Not trying is a signal" - made with [very little gravitas](/) in portland, oregon. 
-
 How lacking in gravitas, exactly? We absolutely no you-know-what that we publish the premier source for breaking govtech news on Twitter, [@BreakingGovTech](https://twitter.com/breakinggovtech).
+
+*"Not trying is a signal" - made with [very little gravitas](/) in Portland, Oregon.*
