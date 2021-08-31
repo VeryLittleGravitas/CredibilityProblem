@@ -4,22 +4,46 @@ We helped found the [California Child Welfare Digital Service](https://cwds.ca.g
 
 Now we're working with others to do the same.
 
-We bring xxx to your yyy, and we do it with very little gravitas indeed.
+# Questions and Answers with Very Little Gravitas
 
-## About Very Little Gravitas
+## You run an advice column?
+
+>  Hi Questions and Answers,
+> 
+> I've heard you're running an advice column in the style of an  relationship advice or modern mannors column, but for anonymous questions about government and technology. Is this true?
+> 
+> Intrigued and trapped in a Microsoft Teams Channel
+
+*Intrigued and trapped in a Microsoft Teams Channel*,
+
+Yes, it's true. We run a regular advice column in Dan's usual, irreverent and candid tone of voice. You can tell your friends to send a question by emailing [ask@verylittlegravitas.com](mailto:ask@verylittlegravitas.com). They might want to use a free anonymous email service like [ProtonMail](https://protonmail.com).
+
+# Who is Very Little Gravitas?
+
+Very Little Gravitas is:
 
 ### Dan Hon, Principal
 
-Dan Hon ([LinkedIn](https://www.linkedin.com/in/danhon/)) is the former Editorial Director for [Code for America](https://www.codeforamerica.org), where he led the program to modernize California's procurement of a new child welfare technology system.
+Dan ([LinkedIn](https://www.linkedin.com/in/danhon/)) is the former Editorial Director for [Code for America](https://www.codeforamerica.org), where he led the program to modernize California's procurement of a new child welfare technology system. Dan was most recently featured in the MIT Technology Review article, [Why is it so hard to build government technology?](https://www.technologyreview.com/2021/03/17/1020811/better-tech-government-pandemic-united-states/). 
 
-Over the last 15 years, Dan's work has focussed on how the internet has changed publishing, entertainment, advertising and health.
-
+Over the last 15 years, Dan's work has focussed on using the internet to improve publishing, entertainment, advertising and health.
 
 ### Nora Ryan, Business Manager
 
+Nora makes everything go and, where needed, easily addresses any significant shortfall of gravitas. 
 
+--- 
 
-### And our friends
+### We've recently worked with
+
+* Dan Hon, Principal, Very Little Gravitas
+* Cyd Harrell
+* Ryan Ko (Chief of Staff, Code for America)
+* Lauren Lockwood, (Founder & Principal, Bloom Works)
+* Jennifer Tharp
+* Emily Wright Moore (User Experience Principal, Bloom Works)
+
+### and previous collaborators have included
 
 * Frances Berriman
 * Kay Chung
@@ -27,8 +51,6 @@ Over the last 15 years, Dan's work has focussed on how the internet has changed 
 * Mike Migurski
 
 If you think we might be able to help you, drop us a line at [get@verylittlegravitas.com](get@verylittlegravitas.com).
-
-"Not trying is a signal" - made with [very little gravitas](/).
 
 # Our work
 
@@ -122,3 +144,8 @@ We worked with the Federal [Administration for Children and Families](https://ww
 * treat child welfare technology as services that continuously improve
 * learn about and apply iterative, agile technology delivery 
 
+---
+
+"Not trying is a signal" - made with [very little gravitas](/) in portland, oregon. 
+
+How lacking in gravitas, exactly? We absolutely no you-know-what that we publish the premier source for breaking govtech news on Twitter, [@BreakingGovTech](https://twitter.com/breakinggovtech).
