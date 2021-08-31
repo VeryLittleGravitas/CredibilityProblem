@@ -4,7 +4,52 @@ We helped found the [California Child Welfare Digital Service](https://cwds.ca.g
 
 Now we're working with others to do the same.
 
+We bring xxx to your yyy, and we do it with very little gravitas indeed.
+
+## About Very Little Gravitas
+
+### Dan Hon, Principal
+
+Dan Hon ([LinkedIn](https://www.linkedin.com/in/danhon/)) is the former Editorial Director for [Code for America](https://www.codeforamerica.org), where he led the program to modernize California's procurement of a new child welfare technology system.
+
+Over the last 15 years, Dan's work has focussed on how the internet has changed publishing, entertainment, advertising and health.
+
+
+### Nora Ryan, Business Manager
+
+
+
+### And our friends
+
+* Frances Berriman
+* Kay Chung
+* Erica Kwan
+* Mike Migurski
+
+If you think we might be able to help you, drop us a line at [get@verylittlegravitas.com](get@verylittlegravitas.com).
+
+"Not trying is a signal" - made with [very little gravitas](/).
+
+# Our work
+
 ## Digital transformation with the State of California
+
+
+### Vision 2023
+
+In January 2021, we delivered California's Statewide Strategic Technology Plan, [Vision 2023](https://vision2023.cdt.ca.gov), with the California Department of Technology. 
+
+For Vision 2023, our team was:
+
+* Dan Hon, Principal, Very Little Gravitas
+* Cyd Harrell, Advisor
+* Ryan Ko, Advisor (Chief of Staff, Code for America)
+* Lauren Lockwood, Advisor, (Founder & Principal, Bloom Works)
+* Jennifer Tharp, Advisor
+* Emily Wright Moore, Advisor (User Experience Principal, Bloom Works)
+
+
+---
 
 ### California Child Welfare Digital Service
 
@@ -38,6 +83,7 @@ Case studies and reports:
 * [Beyond Big Bang: Why the future of legacy modernization is modular, iterative and perpetually in beta](/assets/public_cio_special_report_beyond_big_bang.pdf), Public CIO Special Report, Q2 2016
 * [Life After the Big Bang: Exploring modular, agile paths towards health and human services modernization](http://www.govexec.com/gbc/life-after-big-bang-exploring-modular-agile-paths-toward-health-and-human-services-modernization/), GovExec / Government Business Council, underwitten by KPMG
 
+---
 
 ### Government Operations Agency and Department of Technology 
 
@@ -55,6 +101,8 @@ Read about what GovOps and the Department of Technology are doing based on our w
 * [Examining the California Innovation Lab](http://www.techwire.net/news/examining-the-california-innovation-lab.html), June 2016, Techwire
 * [Is California Ready for Agile?](/assets/techwire_spring_16.pdf), Spring 2016, Techwire
 
+---
+
 ### Health and Human Services Agency and Office of Systems Integration
 
 We're:
@@ -63,7 +111,9 @@ We're:
 * Helping [OSI](http://osi.ca.gov) increase their capability and support for agile, iterative, multi-disciplinary delivery of technology that meets user needs
 * Advising on modernizing and replacing programs like Medicaid MMIS and MEDS, the Medi-Cal Eligibility Data System
 
-## The Administration for Children and Families
+---
+
+## The Federal Administration for Children and Families
 
 We worked with the Federal [Administration for Children and Families](https://www.acf.hhs.gov) to help States:
 
@@ -72,24 +122,3 @@ We worked with the Federal [Administration for Children and Families](https://ww
 * treat child welfare technology as services that continuously improve
 * learn about and apply iterative, agile technology delivery 
 
-## Right now, we are
-
-### Dan Hon, Principal
-
-Dan Hon ([LinkedIn](https://www.linkedin.com/in/danhon/)) is the former Editorial Director for [Code for America](https://www.codeforamerica.org), where he led the program to modernize California's procurement of a new child welfare technology system.
-
-Over the last 15 years, Dan's work has focussed on how the internet has changed publishing, entertainment, advertising and health.
-
-### and, the Interesting Times Gang
-
-* Frances Berriman
-* Kay Chung
-* Erica Kwan
-* Mike Migurski
-* Nora Ryan
-
-If you think we might be able to help you, drop us a line at [get@verylittlegravitas.com](get@verylittlegravitas.com).
-
-------
-
-"Not trying is a signal" - made with [very little gravitas](/).
