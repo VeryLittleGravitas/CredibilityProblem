@@ -41,6 +41,13 @@ header h1 a:active, header h1 a:hover{
 	max-width:840px;
 }
 
+.feature blockquote {
+	border-left: 10px solid #373737;
+	padding: 0.5em 10px;
+	margin: 1.5em 10px;
+}
+
+
 a:link, a:visited{
 	color:#56758D;
 }
